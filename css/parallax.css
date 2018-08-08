@@ -3,11 +3,44 @@
   height: 500px;
 }
 
-.parallax-image {
+.parallax-image1 {
+  background:url("../img/Parallax1.jpg");
+}
+
+.parallax-image2 {
+  background:url("../img/Parallax2.jpg");
+}
+
+.parallax-image3 {
+  background:url("../img/Parallax3.jpg");
+}
+
+.parallax-image4 {
+  background:url("../img/Parallax4.jpg");
+}
+
+.parallax-image5 {
+  background:url("../img/Parallax5.jpg");
+}
+
+.parallax-image6 {
+  background:url("../img/Parallax6.jpg");
+}
+
+.parallax-image7 {
+  background:url("../img/Parallax7.jpg");
+}
+
+.parallax-image1, .parallax-image2, .parallax-image3, .parallax-image4, .parallax-image5, .parallax-image6, .parallax-image7 {
   width: 100vw;
   height: 500px;
 
   opacity: 0.7;
+
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-cover: cover;
 }
 
 /* Turn off parallax scrolling for tablets and phones. Increase the pixels if needed */
