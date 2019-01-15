@@ -1,0 +1,9 @@
+Things to do:
+-Sidebar image
+-Background images
+-Sidebar Icon
+-Social Media Icons
+-Fix Pictures extending beyond normal
+-Fix White Line underline under stream sesction
+-Center the Streams instead of left align
+-Update Info to current (officers/news/etc)
